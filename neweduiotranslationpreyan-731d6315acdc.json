@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "neweduiotranslationpreyan",
+  "private_key_id": "731d6315acdc6f7ab639fb535f8300648f18c25c",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDFEoiqYii7v4AX\n4i6wWxLpxYIk8WGyizpiagrGf80wujEOnMXRzc9ppIov++YJrMJ0ZFjDXpbodUDm\nohP44pmS4ocE2sYZ11Sy49xfbZX2FPoYMzZYWt0CR9krMgC0O9AxLrK8AnTQ/R1m\nMe5opx1uGoEhsWNOoLcBWdBvuL4ohDVHHG1px88cL1A2zv2MxfM+UmitiRZWbAgD\nQ/HEtzqV33YNlWNcYFrwMnprm8usVKqBg65vnJHOae0M9/ioEpxPbEFff3QjZULT\nS3W3wE/b1wKz0MwfzTgFvSZRZEij7fnrlS2BY45x4ImkSCycNnXOnZfOw2AHfyE2\nySSqT0YXAgMBAAECggEAFkJ2KlylAjPquYfkQyo+VCZpgVe8c8jTIuucZPhpil/1\ni5N8qqqHC4U40Juwy5X2buQovISSIhagaoyTGfEqbJNmsc8uQhv25q/jI+pCXoXX\nC+W49TjqLshDyOPAfZsl9HA0YxUZ8cMtT25DYhHCOr4GqPIa5/YyRZZJ+1yQKg42\nFQIfl1Zv8UfZlOsYfjqQKZdQgxY/MP79dATD+uoOPGjVe0neFmzGSlZYlNNJVJni\n6fQbj46NV1kDBwDz7W0aHi2ZLzkS4pFfsSui8LzPuAIsCBzgEzLIdpdOldUq2vfR\nsHY2gWR9G/am0CZtVMCKlRRCHjGH4H2sw8fbi8NzGQKBgQDrIE7n1THoz17O9L2l\ntjFj7GOZNG6jQhB5nIc86t9SZdoPw2nEYK7nlNJIzNOcRwKdxIOQxfKnz6SJW2H7\nE1ftdlicjXB4YT/JhdTbVle9EVyjZFncU/N6q9MqHWV/j69amMX6O5bh6t6u1NBq\nKp+5L4DQHw8v564DXD/GXBd4yQKBgQDWkWFXz6/PT+q0y2zIjMu0wC8YtK5DuiRP\n0r/RpvzsPChDTgyEmoUbncDAi6UYa1kEh8bPveQNK2NZ5/xKB9rPGqfe9el96AF2\nyzZyqpgyEZn/Oq74yQl1XwpL+yZFzDPPTCw/KmAePNXNx46r30Xe0eK5zY+hpFY3\np2+lCmsX3wKBgEBDPE2wv0taIhd+XLcF7Mnauf4Njo+gZtBWL8A+kXr7y3Wzexzp\nL+SrkC3FjbCQ1+42356Z+5BR+C5yg30T9Fw6lE11et/r9Hsn0N2B48kRDbi6nLTT\nXSCSBczk6/DJXKvuRW33C24Du4kdMTlTHQSILzSyyHvXXoAcnnGgienBAoGAXOPL\nVIyg/AsI/QQkMB5kAfhBa1ytJLztA3GlgUndrRfOBnU/jhinD3GYBMNv0caHXyK4\nuy7mD519AWshGZuU6pwLmMa1MsDCAX+wLqwT/3kHRitNnH7MDXf7qTEtPIJO26uK\nbD4YJn8HwHJoHZgnU3NhyDZpu/y9JpLiDn0YJ9kCgYEA0U2gJ/rpq+YmDHNsBrFg\nI+k1qY91RLnt6IyR0XCzwwq2FEQdD72xVzbiKZyfT4JpjIJyGBJVj1GUSKnwQcEK\nGFUd75NMqBucvAgV74Q9jEe/sLuHZW/l7Rf85S8OMmnZh7qhRxGvFoCGcCSPNZYz\niqxWOOHbe1Y3wzp2av4Zjao=\n-----END PRIVATE KEY-----\n",
+  "client_email": "eduio-742@neweduiotranslationpreyan.iam.gserviceaccount.com",
+  "client_id": "105093185516517586477",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/eduio-742%40neweduiotranslationpreyan.iam.gserviceaccount.com"
+}
